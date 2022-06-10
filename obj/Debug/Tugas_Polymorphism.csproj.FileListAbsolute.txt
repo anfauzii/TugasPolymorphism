@@ -1,0 +1,6 @@
+D:\Kuliah\Semester 2\Pemrograman\Praktikum 9\Tugas_Polymorphism\Tugas_Polymorphism\bin\Debug\Tugas_Polymorphism.exe.config
+D:\Kuliah\Semester 2\Pemrograman\Praktikum 9\Tugas_Polymorphism\Tugas_Polymorphism\bin\Debug\Tugas_Polymorphism.exe
+D:\Kuliah\Semester 2\Pemrograman\Praktikum 9\Tugas_Polymorphism\Tugas_Polymorphism\bin\Debug\Tugas_Polymorphism.pdb
+D:\Kuliah\Semester 2\Pemrograman\Praktikum 9\Tugas_Polymorphism\Tugas_Polymorphism\obj\Debug\Tugas_Polymorphism.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\Praktikum 9\Tugas_Polymorphism\Tugas_Polymorphism\obj\Debug\Tugas_Polymorphism.exe
+D:\Kuliah\Semester 2\Pemrograman\Praktikum 9\Tugas_Polymorphism\Tugas_Polymorphism\obj\Debug\Tugas_Polymorphism.pdb
